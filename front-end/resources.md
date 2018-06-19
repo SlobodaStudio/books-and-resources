@@ -1,6 +1,6 @@
 ### News sources
 #### Common
-   * http://harahabr.ru/
+   * http://habr.com/
    * http://hotjs.net/
    * http://www.2ality.com/
 
